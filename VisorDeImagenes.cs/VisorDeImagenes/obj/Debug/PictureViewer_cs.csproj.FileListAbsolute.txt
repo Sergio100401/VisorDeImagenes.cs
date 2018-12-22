@@ -1,0 +1,23 @@
+C:\Users\kempb\Documents\Visual Studio 2013\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\kempb\Documents\Visual Studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\kempb\Documents\Visual Studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\Dyffr\Downloads\C#\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Dyffr\Downloads\C#\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Dyffr\Downloads\C#\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Dyffr\Downloads\C#\PictureViewer\obj\Debug\PictureViewer_cs.csprojAssemblyReference.cache
+C:\Users\Dyffr\Downloads\C#\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Dyffr\Downloads\C#\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Dyffr\Downloads\C#\PictureViewer\obj\Debug\PictureViewer_cs.csproj.GenerateResource.cache
+C:\Users\Dyffr\Downloads\C#\PictureViewer\obj\Debug\PictureViewer_cs.csproj.CoreCompileInputs.cache
+C:\Users\Dyffr\Downloads\C#\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Dyffr\Downloads\C#\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer_cs.csprojAssemblyReference.cache
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer_cs.csproj.GenerateResource.cache
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer_cs.csproj.CoreCompileInputs.cache
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\Dyffr\source\repos\PictureViewer\PictureViewer\obj\Debug\VisorDeImagenes.Form1.resources
